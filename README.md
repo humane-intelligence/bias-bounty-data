@@ -18,7 +18,7 @@ Factuality refers to the model's ability to discern reality from fiction and pro
 
 | Statistic   | Number | Description   |
 |--------|-----|--------------|
-| Variables  | 17  | The number of factors or colums in the dataset     |
+| Variables  | 16  | The number of factors or colums in the dataset     |
 | Observations    | 16,205  | The number of rows in the dataset     |
 | Total Record Size in Memory | 2.1 MiB  | The size of the dataset      |
 
@@ -28,7 +28,7 @@ Misdirection analyses include incorrect outputs and hallucinations that could mi
 
 | Statistic   | Number | Description   |
 |--------|-----|--------------|
-| Variables  |  17 | The number of factors or colums in the dataset     |
+| Variables  |  16 | The number of factors or colums in the dataset     |
 | Observations    |  15,599 | The number of rows in the dataset     |
 | Total Record Size in Memory |  	2.0 MiB | The size of the dataset      |
 
@@ -38,7 +38,7 @@ Bias analysis demonstrates and explores model biases. That is, we asked the user
 
 | Statistic   | Number | Description   |
 |--------|-----|--------------|
-| Variables  | 17  | The number of factors or colums in the dataset     |
+| Variables  | 16  | The number of factors or colums in the dataset     |
 | Observations    | 19,620  | The number of rows in the dataset     |
 | Total Record Size in Memory | 2.6 MiB  | The size of the dataset      |
 
