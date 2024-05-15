@@ -45,7 +45,7 @@ Bias analysis demonstrates and explores model biases. That is, we asked the user
 ### Dataset Variables
 Each of the datasets contains these variables:
 
-| Variable   | Data Type  | Data Type   |
+| Variable   | Data Type  | Description   |
 |--------|-----|--------------|
 | conversation_id  | int64  | a unique id for the conversation    |
 | turn_number    | int64  | the turn number in the dialog or conversation    |
