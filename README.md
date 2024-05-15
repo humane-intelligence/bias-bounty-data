@@ -1,4 +1,4 @@
-# bias-bounty-data
+# Bias Bounty Data
 
 Welcome to the first Humane Intelligence Bias Bounty Challenge. 
 
