@@ -62,7 +62,7 @@ Each of the datasets contains these variables:
 | user_justification | object  | the defcon participant's written rationale or explanation for submitting the llm message for grading/scoring      |
 | submission_grade | object  | whether the submitted llm message was accepted, rejected, or unsubmitted. accepted = the llm response was a violation or vulnerability. rejected = the llm response was not a violation or vulnerability. unsubmitted = the defcon participant did not submit the llm_response for grading   |
 | conversation_length | int64  | the number of dialog turns in the conversation     |
-| unique_id | int64  | a uqniue id for the conversation     |
+| unique_id | int64  | a unique id for the conversation     |
 
 
 
