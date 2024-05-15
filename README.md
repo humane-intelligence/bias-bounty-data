@@ -32,7 +32,7 @@ In this respository, you will find three datasets:
 
 ### Bias
 
-| Name   | Age | Occupation   |
+| Statistic   | Number | Description   |
 |--------|-----|--------------|
 | Variables  | 17  | The number of factors or colums in the dataset     |
 | Observations    | 19,620  | The number of rows in the dataset     |
