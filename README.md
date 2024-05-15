@@ -47,7 +47,7 @@ Each of the datasets contains these variables:
 
 | Variable   | Data Type  | Data Type   |
 |--------|-----|--------------|
-| conversation_id  | int64e  | a unique id for the conversation    |
+| conversation_id  | int64  | a unique id for the conversation    |
 | turn_number    | int64  | the turn number in the dialog or conversation    |
 | role_number | int64  | the role number for the role in the row    |
 | system | object  | the system message or system prompt used in the defcon challenge     |
